@@ -15,12 +15,19 @@
 * **[Notebooks for processing rpoA timelapse data.][rpoA]**
 * **[Notebooks for processing plate photos.][plate]**
 
+[plate_unet]:https://drive.google.com/drive/folders/1ngNdMPka_KaukyDj62vECfXcP6xt6zZP?usp=sharing
+[microscopy_unet]:https://drive.google.com/drive/folders/1d7Otbzh51iaa62gbwXpPfXGkx0ULqhVF?usp=sharing
+### Pretrained UNet models for microscopy/plate image segmentation can be downloaded from:
+* **[Plate photo segmentation model.][plate_unet]**
+* **[Microscopy segmentation model][microscopy_unet]**
 
-### Note that majority of the image analysis was performed using momia2, which was designed to perform miscellaneous mycobacterial imaging data.
+### Note that majority of the image analysis was performed using momia2, which was designed to perform miscellaneous mycobacterial imaging data analysis.
 momia2 is currently under development (albeit slowly), you may install the momia2 development version by running:
 ```
 pip install git+https://github.com/jzrolling/momia2-dev.git
 ```
+
+
 
 
 
