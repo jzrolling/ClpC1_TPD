@@ -20,11 +20,15 @@
 [plate_unet]:https://drive.google.com/drive/folders/1ngNdMPka_KaukyDj62vECfXcP6xt6zZP?usp=sharing
 [microscopy_unet]:https://drive.google.com/drive/folders/1d7Otbzh51iaa62gbwXpPfXGkx0ULqhVF?usp=sharing
 [microscopy_unet_new]: https://drive.google.com/drive/folders/18n4wioiCQcQfKx2iba4jwxInXc6wNgni?usp=sharing
+[references]: https://drive.google.com/file/d/1MdEw09q7xouO-XUbtrk_5yNHaKlic1YT/view?usp=sharing
+[demo]: https://drive.google.com/file/d/17T68rKkAO_zJyPRt_w4EYGM83ourDgCe/view?usp=sharing
 
-### Pretrained UNet models for microscopy/plate image segmentation can be downloaded from:
+### Some key resources / pre-trained Unet models can be downloaded from:
 * **[Plate photo segmentation model.][plate_unet]**
 * **[Microscopy segmentation model][microscopy_unet]**
-* * **[Microscopy segmentation model used for revision1][microscopy_unet_new]**
+* **[Microscopy segmentation model used for revision1][microscopy_unet_new]**
+* **[Important reference files used for revision1][references]**
+* **[Demo microscopy files][demo]**
 
 ### Note that majority of the image analysis was performed using momia2, which was designed to perform miscellaneous mycobacterial imaging data analysis.
 momia2 is currently under development (albeit slowly), you may install the momia2 development version by running:
